@@ -1,3 +1,4 @@
 notes de stage
 objectif: maitriser git
 revision terminee
+nouvelle fonctionnalite en cours
